@@ -1,8 +1,8 @@
 import  requests
 import json
 
-req4="https://api.etherscan.io/api?module=account&action=tokennfttx&contractaddress=0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d&apikey=7PEM6GJ6R5BSK49UX4Y2A86QGY5MNQ1T2G"
-req7="https://api.etherscan.io/api?module=account&action=tokennfttx&contractaddress=0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d&startblock=asd&endblock=99999999&apikey=7PEM6GJ6R5BSK49UX4Y2A86QGY5MNQ1T2G"
+req4="https://api.etherscan.io/api?module=account&action=tokennfttx&contractaddress=0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d&apikey=" #apikey da inserire
+req7="https://api.etherscan.io/api?module=account&action=tokennfttx&contractaddress=0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d&startblock=asd&endblock=99999999&apikey=" #apikey da inserire
 
 ok=True
 plhold="asd"

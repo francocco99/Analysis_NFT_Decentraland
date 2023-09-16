@@ -2,7 +2,7 @@ import  requests
 import json
 import os
 
-req="https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&startblock=asd&endblock=asd&apikey=7PEM6GJ6R5BSK49UX4Y2A86QGY5MNQ1T2G"
+req="https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2&startblock=asd&endblock=asd&apikey=" # apikey da inserire
 plhold="asd"
 
 
